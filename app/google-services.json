@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "503022328305",
+    "firebase_url": "https://kitchenappadmin.firebaseio.com",
+    "project_id": "kitchenappadmin",
+    "storage_bucket": "kitchenappadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503022328305:android:7491d6401696b156",
+        "android_client_info": {
+          "package_name": "com.example.android.kitchenappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503022328305-v2ah5uairu3uutv7g7m2mh7sldmp3cur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.kitchenappadmin",
+            "certificate_hash": "54559e3cb7aa76f4932617b9d2c9df188f8dbe13"
+          }
+        },
+        {
+          "client_id": "503022328305-b0u5dmj6at3938l0sjtpof1h4c0saoq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM1fHgDBnLi7tqr_wfLtDbbDA2T5FCSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503022328305-b0u5dmj6at3938l0sjtpof1h4c0saoq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503022328305:android:cada3d22de2570a5",
+        "android_client_info": {
+          "package_name": "com.example.android.kitchenappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503022328305-3jjhd38c5lsrja4in58eqdql8rnelvot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.kitchenappclient",
+            "certificate_hash": "54559e3cb7aa76f4932617b9d2c9df188f8dbe13"
+          }
+        },
+        {
+          "client_id": "503022328305-b0u5dmj6at3938l0sjtpof1h4c0saoq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM1fHgDBnLi7tqr_wfLtDbbDA2T5FCSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503022328305-b0u5dmj6at3938l0sjtpof1h4c0saoq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
